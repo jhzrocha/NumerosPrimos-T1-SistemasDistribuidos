@@ -2,6 +2,10 @@
 
 Este repositório contém o Trabalho 1 da disciplina de Sistemas Distribuídos, que envolve a criação de um sistema distribuido para o cálculo de números primos.
 
+## Prints (Tentei adicionar no AVA mas acredito que não tenha dado certo)
+![image](https://github.com/user-attachments/assets/30ba44e8-a06e-4ddb-bec6-e514a94b8192)
+![image](https://github.com/user-attachments/assets/9e6aa07d-9e18-4e16-85d9-fd1b9ea5f891)
+
 ## Execução
 
 1. Clonar este repositório:
