@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  manager:
+    build:
+      context: .
+      dockerfile: Dockerfile.manager
+    depends_on:
+      - worker
+    networks:
+      - mynetwork
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.worker
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge

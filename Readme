@@ -14,8 +14,8 @@ Antes de iniciar a execução, certifique-se de que seu ambiente atenda aos segu
 1. Clonar este repositório:
    ```sh
    sudo su
-   git clone https://github.com/jhzrocha/NumerosPrimos-T1-SistemasDistribuidos.git
-   cd NumerosPrimos-T1-SistemasDistribuidos/
+   git clone https://github.com/jhzrocha/Trabalho1SistemasDistribuidos.git
+   cd Trabalho1SistemasDistribuidos/
    ```
 
 2. Atualize os pacotes e instale o Docker Compose:
@@ -36,7 +36,7 @@ Isso irá construir as imagens Docker necessárias e iniciar os contêineres esp
 
 O repositório está organizado da seguinte forma:
 ```
-NumerosPrimos-T1-SistemasDistribuidos/
+Trabalho1SistemasDistribuidos/
 ├── docker-compose.yml   # Arquivo de configuração do Docker Compose
 ├── dockerfile           # Definição da imagem Docker
 ├── Dockerfile.manager   # Definição da imagem do manager - Docker
