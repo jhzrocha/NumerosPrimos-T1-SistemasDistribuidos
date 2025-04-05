@@ -40,7 +40,6 @@ NumerosPrimos-T1-SistemasDistribuidos/
 
 ```
 
-## Autores
-- [João Heitor Zabel da Rocha]
-- Engenharia da Computação
+## Autor
+- João Heitor Zabel da Rocha
 
