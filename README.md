@@ -1,13 +1,6 @@
 # Trabalho 1 - Sistemas Distribuídos
 
-Este repositório contém o Trabalho 1 da disciplina de Sistemas Distribuídos, que envolve a configuração e execução de um sistema distribuído utilizando Docker e Docker Compose.
-
-## Requisitos
-
-Antes de iniciar a execução, certifique-se de que seu ambiente atenda aos seguintes requisitos:
-- Sistema operacional Linux
-- Git instalado
-- Docker e Docker Compose instalados
+Este repositório contém o Trabalho 1 da disciplina de Sistemas Distribuídos, que envolve a criação de um sistema distribuido para o cálculo de números primos.
 
 ## Execução
 
